@@ -1,4 +1,4 @@
-module goconfig
+module github.com/ayonliu/goconfig
 
 go 1.18
 
